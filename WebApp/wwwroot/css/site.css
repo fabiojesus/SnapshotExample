@@ -16,3 +16,20 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.line {
+    fill: none;
+    stroke: black;
+    stroke-width: 3;
+}
+
+.dot {
+    fill: black;
+    stroke: #fff;
+}
+
+.link {
+    stroke: #999;
+    stroke-opacity: .6;
+    stroke-width: 1px;
+}
